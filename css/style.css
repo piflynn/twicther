@@ -4,6 +4,10 @@ body {
 
 }
 
+footer {
+	color: #aaa;
+}
+
 .list-logo {
 	width: 64px;
 	height: 64px;
